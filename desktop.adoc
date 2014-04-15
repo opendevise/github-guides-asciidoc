@@ -5,6 +5,7 @@ Octocat <https://github.com/octocat[@octocat]>
 :description: Publishing source code doesn't have to be a pain. This guide will walk you through our Mac & Windows applications and how to start sharing your projects with the world (or maybe with no one at all).
 :experimental:
 :subject-stop: {sp}—
+:imagesdir: images
 
 [abstract]
 Software is at the heart of GitHub--and code is the DNA of software.

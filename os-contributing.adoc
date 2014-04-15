@@ -4,6 +4,7 @@ Octocat <https://github.com/octocat[@octocat]>
 :username: octocat
 :description: Open source software is thriving on GitHub. Anyone can get involved and it's easy, too. This guide covers the basics about what to look for and what to do when contributing to open source projects.
 :hide-uri-scheme:
+:imagesdir: images
 
 [abstract]
 A great way to get involved in open source is to contribute to the existing projects you're using.
