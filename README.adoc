@@ -1,0 +1,12 @@
+= GitHub Guides in AsciiDoc
+Dan Allen
+
+This repository is a fork of the https://guides.github.com[GitHub Guides] transformed into AsciiDoc and given the Asciidoctor beautification treatment.
+
+Look for the following changes and enhancements from the original Markdown source (despite it not being available):
+
+* Sentence-per-line formatting
+* Semantic UI references (e.g., buttons)
+* Itemized description lists with configurable “subject stop” characters
+* Sidebars
+* Font-based icons
