@@ -1,0 +1,16 @@
+= GitHub Guides
+Octocat <https://github.com/octocat[@octocat]>
+v1.0, 2014-04-14
+:doctype: book
+:producer: GitHub
+:keywords: GitHub.com, git, forking, pull request, collaboration, source code, version control
+:copyright: Copyright © 2014 GitHub, Inc
+:source: https://guides.github.com 
+:imagesdir: images
+:front-cover-image: image:github-guides-cover.png[GitHub Guides Cover,1050,1600]
+
+include::os-contributing.adoc[]
+
+include::forking.adoc[]
+
+include::desktop.adoc[]
