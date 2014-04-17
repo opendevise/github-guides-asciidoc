@@ -2,6 +2,7 @@
 Dan Allen
 
 This repository is a fork of the https://guides.github.com[GitHub Guides] transformed into AsciiDoc and given the Asciidoctor beautification treatment.
+You can download pre-built e-book files (EPUB3 and KF8/MOBI) from the https://github.com/opendevise/github-guides-asciidoc/releases[releases] tab.
 
 Look for the following changes and enhancements from the original Markdown source (despite it not being available):
 
