@@ -66,7 +66,7 @@ You'll see a banner indicating that you've recently pushed a new branch, and tha
 
 image::recently-pushed-branch.png[Recently pushed branch banner]
 
-Clicking on btn:[Compare & pull request] sends you to a discussion page, where you can enter a title and optional description.
+Clicking on btn:[icon:retweet[rotate=90i,size=small\] Compare & pull request] sends you to a discussion page, where you can enter a title and optional description.
 It's important to provide as much useful information and a rationale for _why_ you're making this pull request in the first place.
 The project owner needs to be able to determine whether your change is as useful to everyone as you think it is.
 
